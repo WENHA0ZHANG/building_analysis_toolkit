@@ -1,0 +1,10 @@
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\bin\Debug\DBDynamicMenuPluginExample.dll.config
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\bin\Debug\DBDynamicMenuPluginExample.dll
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\bin\Debug\DBDynamicMenuPluginExample.pdb
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\bin\Debug\DB.Api.dll
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\bin\Debug\DB.Extensibility.Contracts.dll
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\obj\Debug\DBDynamicMenuPluginExample.csproj.AssemblyReference.cache
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\obj\Debug\DBDynamicMenuPluginExample.csproj.CoreCompileInputs.cache
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\obj\Debug\DBDynamicMenuPluginExample.csproj.CopyComplete
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\obj\Debug\DBDynamicMenuPluginExample.dll
+C:\Users\aws\source\repos\db-plugins-master\DBDynamicMenuPluginExample\obj\Debug\DBDynamicMenuPluginExample.pdb
